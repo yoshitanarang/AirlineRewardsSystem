@@ -1,5 +1,5 @@
-## Airline Rewards System 
-## Yoshita Narang, CS 2336.002
+# Airline Rewards System 
+## Yoshita Narang
 
 An Airline Rewards incentive program operated by an airline to reward customers for their continued loyalty, built using Java. 
 
