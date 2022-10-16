@@ -1,5 +1,5 @@
 # Airline Rewards System 
-## Yoshita Narang
+### Created using Java! By: Yoshita Narang
 
 An Airline Rewards incentive program operated by an airline to reward customers for their continued loyalty, built using Java. 
 
